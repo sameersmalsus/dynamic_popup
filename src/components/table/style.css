@@ -1,0 +1,27 @@
+.table-section{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.table-section-heading{
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.user-data-details{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.user-data-details tr{
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+
